@@ -4,13 +4,13 @@
 		{
 			"secretId": "1d372a3c-df7b-4616-aed3-65850e869a42",
 			"data": {
-				"replaced_text": "pwd1_f2"
+				"another_string": "pwd1_f2"
 			}
 		},
 		{
 			"secretId": "48cdd5b4-28f1-4180-a65f-c7a7505b049e",
 			"data": {
-				"replaced_text": "pwd2_f2"
+				"another_string": "pwd2_f2"
 			}
 		}
 	]
