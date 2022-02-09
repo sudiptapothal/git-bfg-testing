@@ -1,0 +1,18 @@
+{
+	"modCheckValue": "abc",
+	"secretDetails": [
+		{
+			"secretId": "1d372a3c-df7b-4616-aed3-65850e869a42",
+			"data": {
+				"another_string": "pwd1_f2"
+			}
+		},
+		{
+			"secretId": "48cdd5b4-28f1-4180-a65f-c7a7505b049e",
+			"data": {
+				"another_string": "pwd2_f2"
+			}
+		}
+	]
+}
+This file added in feature branch 2.
